@@ -1,5 +1,6 @@
 # User Management Screen UI Specification
 
+
 ## Overview
 The User Management screen allows users to view, create, and manage user accounts within the system. This document specifies the requirements and design details for the User Management interface.
 
@@ -25,7 +26,7 @@ The User Management screen allows users to view, create, and manage user account
   - **Email**: Shows the email address associated with each user.
   - **Enabled**: Indicates whether the user account is enabled or disabled.
 - **Sorting**: Each column header includes an arrow icon to sort the records based on that column. The currently selected sorting parameter displays a single up arrow, while other parameters display both up and down arrows.
-- **Filtering**: Each column header includes a filter icon that allows filtering related to that column
+- **Filtering**: Each column header includes a filter icon that allows filtering related to that column.
 
 ### New User Registration Form
 - **Title**: Positioned at the top of the form, displaying "New User".
